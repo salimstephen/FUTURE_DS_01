@@ -13,6 +13,14 @@ This project presents a business sales dashboard built using Power BI to analyze
 
 ---
 
+## Technical Implementation
+   ### 1. Data Preparation
+   ### 2. Data Modelling
+   ### 3. DAX Measures
+   ### 4. Dashboard Development
+   
+---
+
 ## Tools & Technologies
 - Power BI Desktop
 - Power Query (Data Cleaning)
